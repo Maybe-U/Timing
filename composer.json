@@ -1,0 +1,12 @@
+{
+    "name": "hpj/compser",
+    "description": "no",
+    "authors": [
+        {
+            "name": "hpj",
+            "email": "240088298@qq.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
